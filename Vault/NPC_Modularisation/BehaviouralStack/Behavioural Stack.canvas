@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"068880e2f800fd08","type":"file","file":"BehaviouralStack/NPC_Blackboard.md","x":-153,"y":-419,"width":400,"height":400},
+		{"id":"b07dcb7c875605aa","type":"file","file":"BehaviouralStack/NPC_Controller.md","x":-153,"y":-19,"width":400,"height":400},
+		{"id":"90f42d0d4971784f","type":"file","file":"BehaviouralStack/NPC_Sensors.md","x":-153,"y":381,"width":400,"height":400},
+		{"id":"773ac51574d5cb55","type":"file","file":"BehaviouralStack/Behavior.md","x":-153,"y":781,"width":400,"height":400},
+		{"id":"f1d86a2a437da055","type":"file","file":"BehaviouralStack/NPC_BehaviorStack.md","x":-153,"y":1181,"width":400,"height":400},
+		{"id":"475236601927f61a","type":"file","file":"BehaviouralStack/NPC_Spawner.md","x":-153,"y":1581,"width":400,"height":400},
+		{"id":"376c00deacb95edf","type":"file","file":"BehaviouralStack/Personal Reflection On Imported Assets.md","x":-680,"y":-419,"width":527,"height":400}
+	],
+	"edges":[]
+}

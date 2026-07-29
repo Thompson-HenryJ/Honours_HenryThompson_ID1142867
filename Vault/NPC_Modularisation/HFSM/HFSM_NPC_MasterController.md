@@ -1,0 +1,1 @@
+[[HFSM_NPC_PatrolBase]]

@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "0752b1e78be3d725",
+    "type": "split",
+    "children": [
+      {
+        "id": "093fd9656f869ad1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d305f65544ef880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HFSM/HFSM_NPC_MasterController.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HFSM_NPC_MasterController"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99eb0b67a20ba5ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9c85f3c93e527a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2586727e3af93eb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b9797b77edab1ea2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa7827b770355d74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a0b3742cc0b8b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4f90ccc67d9710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20dc82bde7280540",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HFSM/HFSM_NPC_MasterController.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HFSM_NPC_MasterController"
+            }
+          },
+          {
+            "id": "98d305c850b19602",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HFSM/HFSM_NPC_MasterController.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HFSM_NPC_MasterController"
+            }
+          },
+          {
+            "id": "a8d81315d8ed14ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "129370618060f020",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "39e68912ea5ba18d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HFSM/HFSM_NPC_MasterController.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HFSM_NPC_MasterController"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2d305f65544ef880",
+  "lastOpenFiles": [
+    "HFSM/HFSM_FolderListLoader.md",
+    "Images/Pasted image 20260729140511.png",
+    "BehaviouralStack/CombatBehaviors.md",
+    "BehaviouralStack/Behavioural Stack.canvas",
+    "BehaviouralStack/Behavior.md",
+    "BehaviouralStack/UtilityBehaviors.md",
+    "Images/Pasted image 20260729135920.png",
+    "HFSM/HFSM_NPC_MasterController.md",
+    "Images/Pasted image 20260729140016.png",
+    "Images/Pasted image 20260729132908.png",
+    "Images/Pasted image 20260729135842.png",
+    "Images/Pasted image 20260729135948.png",
+    "HFSM/HFSM.canvas",
+    "Images",
+    "BehaviouralStack/MovementBehaviors.md",
+    "Images/Pasted image 20260729140220.png",
+    "Images/Pasted image 20260729140147.png",
+    "Images/Pasted image 20260729140109.png",
+    "Images/Pasted image 20260729140042.png",
+    "BehaviouralStack/Personal Reflection On Imported Assets.md",
+    "BehaviouralStack/NPC_BehaviorStack.md",
+    "BehaviouralStack/NPC_Spawner.md",
+    "BehaviouralStack/NPC_Sensors.md",
+    "BehaviouralStack/NPC_Controller.md",
+    "BehaviouralStack/NPC_Blackboard.md",
+    "BehaviouralStack",
+    "HFSM",
+    "HFSM/Modules.md",
+    "HFSM/HFSM_StateManager.md",
+    "HFSM/HFSM_States.md",
+    "HFSM/Resources.md",
+    "HFSM/PatrolBase.md",
+    "HFSM/HFSM_NPC_PatrolBase.md",
+    "Welcome.md"
+  ]
+}

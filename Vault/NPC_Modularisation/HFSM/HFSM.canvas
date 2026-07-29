@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"79e5968db8db095b","type":"file","file":"HFSM/HFSM_NPC_MasterController.md","x":-320,"y":-300,"width":400,"height":400},
+		{"id":"563fdd3f54053de9","type":"file","file":"HFSM/HFSM_StateManager.md","x":-320,"y":100,"width":400,"height":400},
+		{"id":"8bcfdd70b7d55224","type":"file","file":"HFSM/HFSM_FolderListLoader.md","x":-320,"y":500,"width":400,"height":400}
+	],
+	"edges":[]
+}

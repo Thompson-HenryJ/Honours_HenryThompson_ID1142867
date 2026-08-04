@@ -73,7 +73,7 @@ namespace HalfLifeNPC
             _movementStack = CreateStack("Movement");
             RegisterInStack<EvadeImmediateBehavior>(_movementStack);
             RegisterInStack<TacticalMoveBehavior>  (_movementStack);
-            RegisterInStack<PatrolBehavior>         (_movementStack);
+            RegisterInStack<PatrolBehavior>        (_movementStack);
 
             // ── Individual actuator stacks ────────────────────────────
             _pitchStack         = CreateStack("Pitch");

@@ -135,7 +135,11 @@ namespace HalfLifeNPC
 
         private float _timer;
 
-        void Awake() { BehaviorName = "FireSecondary"; Priority = 2; }
+        void Awake() 
+        {
+            BehaviorName = "FireSecondary"; 
+            Priority = 2; 
+        }
 
         public override bool IsActive()
             => BB != null

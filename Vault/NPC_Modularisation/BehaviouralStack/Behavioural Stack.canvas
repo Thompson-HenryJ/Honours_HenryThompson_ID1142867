@@ -6,7 +6,9 @@
 		{"id":"773ac51574d5cb55","type":"file","file":"BehaviouralStack/Behavior.md","x":-153,"y":781,"width":400,"height":400},
 		{"id":"f1d86a2a437da055","type":"file","file":"BehaviouralStack/NPC_BehaviorStack.md","x":-153,"y":1181,"width":400,"height":400},
 		{"id":"475236601927f61a","type":"file","file":"BehaviouralStack/NPC_Spawner.md","x":-153,"y":1581,"width":400,"height":400},
-		{"id":"376c00deacb95edf","type":"file","file":"BehaviouralStack/Personal Reflection On Imported Assets.md","x":-680,"y":-419,"width":527,"height":400}
+		{"id":"376c00deacb95edf","type":"file","file":"BehaviouralStack/Personal Reflection On Imported Assets.md","x":-680,"y":-419,"width":527,"height":400},
+		{"id":"d341e13e2cb4be13","x":-680,"y":-19,"width":527,"height":400,"type":"file","file":"BehaviouralStack/Personal Reflection On Debugging.md"},
+		{"id":"e8b49abfebee4daa","x":-680,"y":381,"width":527,"height":400,"type":"file","file":"BehaviouralStack/Personal Reflection On New Assets.md"}
 	],
 	"edges":[]
 }

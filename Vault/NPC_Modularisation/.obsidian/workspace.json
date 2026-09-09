@@ -11,14 +11,17 @@
             "id": "b5c943c634f2c790",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "BehaviouralStack/NPC_Sensors.md",
-                "mode": "source",
-                "source": false
+                "file": "HFSM/HFSM.canvas",
+                "viewState": {
+                  "x": -120,
+                  "y": 300,
+                  "zoom": -0.007671013352928816
+                }
               },
-              "icon": "lucide-file",
-              "title": "NPC_Sensors"
+              "icon": "lucide-layout-dashboard",
+              "title": "HFSM"
             }
           }
         ]
@@ -41,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,9 +190,15 @@
   },
   "active": "b5c943c634f2c790",
   "lastOpenFiles": [
+    "BehaviouralStack/Behavioural Stack.canvas",
+    "HFSM/HFSM.canvas",
+    "HFSM/HFSM_FolderListLoader.md",
+    "HFSM/Resources.md",
+    "HFSM/Modules.md",
+    "HFSM/PatrolBase.md",
+    "BehaviouralStack/NPC_Sensors.md",
     "BehaviouralStack/NPC_Controller.md",
     "BehaviouralStack/NPC_Blackboard.md",
-    "BehaviouralStack/Behavioural Stack.canvas",
     "BehaviouralStack/Behavior.md",
     "BehaviouralStack/CombatBehaviors.md",
     "BehaviouralStack/UtilityBehaviors.md",
@@ -203,18 +214,12 @@
     "Images/Pasted image 20260729132908.png",
     "Images/Pasted image 20260729135948.png",
     "BehaviouralStack/NPC_BehaviorStack.md",
-    "BehaviouralStack/NPC_Sensors.md",
     "BehaviouralStack/NPC_Spawner.md",
     "BehaviouralStack/Personal Reflection On Debugging.md",
     "BehaviouralStack/Personal Reflection On Imported Assets.md",
     "BehaviouralStack/Personal Reflection On New Assets.md",
     "HFSM/HFSM_NPC_MasterController.md",
-    "HFSM/HFSM_FolderListLoader.md",
-    "HFSM/HFSM.canvas",
     "HFSM/HFSM_NPC_PatrolBase.md",
-    "HFSM/Resources.md",
-    "HFSM/Modules.md",
-    "HFSM/PatrolBase.md",
     "HFSM/HFSM_States.md",
     "HFSM/HFSM_StateManager.md",
     "Images",

@@ -40,4 +40,9 @@ public class State_Manager : MonoBehaviour
         //updates current state of NPC
         currentState = nextState;
     }
+
+    public void SetState(States newState)
+    {
+        currentState = newState;
+    }
 }

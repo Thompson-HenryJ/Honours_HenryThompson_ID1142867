@@ -187,7 +187,8 @@ namespace HalfLifeNPC
 
             if (distToWP <= WaypointStopDistance)
             {
-                _anim?.SetFloat("Speed", 0f);
+                //Currently Disabled due to lack of Animator on NPC
+                //_anim?.SetFloat("Speed", 0f);
                 _idleTimer += Time.deltaTime;
                 if (_idleTimer >= IdleTimeAtWaypoint)
                 {
@@ -198,7 +199,8 @@ namespace HalfLifeNPC
             }
             else
             {
-                _anim?.SetFloat("Speed", _agent.velocity.magnitude);
+                //Currently Disabled due to lack of Animator on NPC
+                // _anim?.SetFloat("Speed", _agent.velocity.magnitude);
             }
         }
 

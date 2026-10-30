@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class FolderListLoader : MonoBehaviour
@@ -20,23 +16,24 @@ public class FolderListLoader : MonoBehaviour
         Debug.Log($"Loaded {modules.Length} assets from the folder!");
 
         foreach (var state in modules)
+        {
+            if (state.GetType().IsSubclassOf(typeof(States)))
             {
-            States currentState = (States)state;
-            Debug.Log(currentState.name);
+                Debug.Log($"Loaded the State: {state.name}.");
             }
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
 
     void Awake()
     {
 
- 
-
     }
 }
+

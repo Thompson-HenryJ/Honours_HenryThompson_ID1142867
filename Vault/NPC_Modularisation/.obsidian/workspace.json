@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "093fd9656f869ad1",
+        "id": "7315851b69fa1355",
         "type": "tabs",
         "children": [
           {
-            "id": "b5c943c634f2c790",
+            "id": "0ff49556bd1aa7e7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "HFSM/HFSM.canvas",
-                "viewState": {
-                  "x": -120,
-                  "y": 300,
-                  "zoom": -0.007671013352928816
-                }
+                "file": "HFSM/HFSM_NPC_PatrolBase.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "HFSM"
+              "icon": "lucide-file",
+              "title": "HFSM_NPC_PatrolBase"
             }
           }
         ]
@@ -188,40 +185,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "b5c943c634f2c790",
+  "active": "0ff49556bd1aa7e7",
   "lastOpenFiles": [
-    "BehaviouralStack/Behavioural Stack.canvas",
+    "HFSM/HFSM_States.md",
+    "HFSM/PatrolBase.md",
+    "HFSM/Modules.md",
     "HFSM/HFSM.canvas",
     "HFSM/HFSM_FolderListLoader.md",
-    "HFSM/Resources.md",
-    "HFSM/Modules.md",
-    "HFSM/PatrolBase.md",
-    "BehaviouralStack/NPC_Sensors.md",
+    "HFSM/HFSM_NPC_MasterController.md",
+    "HFSM/HFSM_StateManager.md",
+    "HFSM/HFSM_NPC_PatrolBase.md",
+    "BehaviouralStack/NPC_Spawner.md",
     "BehaviouralStack/NPC_Controller.md",
     "BehaviouralStack/NPC_Blackboard.md",
-    "BehaviouralStack/Behavior.md",
+    "BehaviouralStack/NPC_BehaviorStack.md",
+    "BehaviouralStack/MovementBehaviors.md",
     "BehaviouralStack/CombatBehaviors.md",
+    "BehaviouralStack/Behavior.md",
+    "BehaviouralStack/Behavioural Stack.canvas",
+    "HFSM/Resources.md",
+    "BehaviouralStack/NPC_Sensors.md",
     "BehaviouralStack/UtilityBehaviors.md",
     "Images/Pasted image 20260805091957.png",
     "Images/Pasted image 20260805091831.png",
     "Images/Pasted image 20260805091639.png",
     "Images/Pasted image 20260805091614.png",
-    "BehaviouralStack/MovementBehaviors.md",
     "Images/Pasted image 20260805091449.png",
     "Images/Pasted image 20260805091413.png",
     "Images/Pasted image 20260805091334.png",
     "Images/Pasted image 20260729135842.png",
     "Images/Pasted image 20260729132908.png",
     "Images/Pasted image 20260729135948.png",
-    "BehaviouralStack/NPC_BehaviorStack.md",
-    "BehaviouralStack/NPC_Spawner.md",
     "BehaviouralStack/Personal Reflection On Debugging.md",
     "BehaviouralStack/Personal Reflection On Imported Assets.md",
     "BehaviouralStack/Personal Reflection On New Assets.md",
-    "HFSM/HFSM_NPC_MasterController.md",
-    "HFSM/HFSM_NPC_PatrolBase.md",
-    "HFSM/HFSM_States.md",
-    "HFSM/HFSM_StateManager.md",
     "Images",
     "BehaviouralStack",
     "HFSM",

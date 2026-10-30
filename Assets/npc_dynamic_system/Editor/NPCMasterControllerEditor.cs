@@ -48,6 +48,8 @@ namespace NPCSystem
                 {
                     NPCModel.BehaviorBasedFSM, new[]
                     {
+                        // Resources.loadAll(resources/folder01) subtype of States
+                        // Label = state.name, Type = typeof(state.Type)
                         new BehaviorEntry { Label = "Patrol",  Type = typeof(BFSM_PatrolBehavior), Tooltip = "Loops between patrol waypoints when no enemy is detected."  },
                         new BehaviorEntry { Label = "Search",  Type = typeof(BFSM_SearchBehavior), Tooltip = "Investigates a heard sound and navigates to last known position." },
                         new BehaviorEntry { Label = "Combat",  Type = typeof(BFSM_CombatBehavior), Tooltip = "Fires projectiles at a visible enemy within engage range."  },
